@@ -1,0 +1,17 @@
+date: 2023-07-19
+people:
+  - Anthony Nakhoul
+fluence:
+  value: 0.24
+  type: float
+  unit: J/cm²
+  description: laser fluence
+delay:
+  value: 30
+  type: float
+  description: delay between two pulses
+n:
+  value: 17
+  type: int
+  unit: count
+  description: number of double pulses
